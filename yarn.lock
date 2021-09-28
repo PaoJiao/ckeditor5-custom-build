@@ -23,6 +23,13 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
+"@ckeditor/ckeditor5-alignment@^29.2.0":
+  version "29.2.0"
+  resolved "https://registry.nlark.com/@ckeditor/ckeditor5-alignment/download/@ckeditor/ckeditor5-alignment-29.2.0.tgz?cache=0&sync_timestamp=1630396411337&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40ckeditor%2Fckeditor5-alignment%2Fdownload%2F%40ckeditor%2Fckeditor5-alignment-29.2.0.tgz#2ac19db6e4788498ad4fa9cfb60d5f2cd9c269d3"
+  integrity sha1-KsGdtuR4hJitT6nPtg1fLNnCadM=
+  dependencies:
+    ckeditor5 "^29.2.0"
+
 "@ckeditor/ckeditor5-autoformat@^29.2.0":
   version "29.2.0"
   resolved "https://registry.nlark.com/@ckeditor/ckeditor5-autoformat/download/@ckeditor/ckeditor5-autoformat-29.2.0.tgz#054d10a0208c9cd48a064924a6b3872621e640e6"
@@ -138,6 +145,13 @@
   version "29.2.0"
   resolved "https://registry.nlark.com/@ckeditor/ckeditor5-essentials/download/@ckeditor/ckeditor5-essentials-29.2.0.tgz?cache=0&sync_timestamp=1630394708922&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40ckeditor%2Fckeditor5-essentials%2Fdownload%2F%40ckeditor%2Fckeditor5-essentials-29.2.0.tgz#9984fac613f429a94608bb16957b16711718582f"
   integrity sha1-mYT6xhP0KalGCLsWlXsWcRcYWC8=
+  dependencies:
+    ckeditor5 "^29.2.0"
+
+"@ckeditor/ckeditor5-font@^29.2.0":
+  version "29.2.0"
+  resolved "https://registry.nlark.com/@ckeditor/ckeditor5-font/download/@ckeditor/ckeditor5-font-29.2.0.tgz?cache=0&sync_timestamp=1630394902440&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40ckeditor%2Fckeditor5-font%2Fdownload%2F%40ckeditor%2Fckeditor5-font-29.2.0.tgz#1f73a0437fb8bd488a5d08e0ad3cf3cc1775d498"
+  integrity sha1-H3OgQ3+4vUiKXQjgrTzzzBd11Jg=
   dependencies:
     ckeditor5 "^29.2.0"
 
